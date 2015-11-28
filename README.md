@@ -1,6 +1,6 @@
 # Magento-1.x-Odeme-Modulu
 
-Magento 1.x Banka Ödeme Modülü
+Magento 1.x Banka Ödeme Modülü / Sanal POS
 
 Oneyhosting.com ve Oneyeticaret.com Magento 1.x serisi Banka Online Ödeme Modülü
 
