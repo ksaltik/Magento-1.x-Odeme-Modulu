@@ -5,3 +5,35 @@
       <version>0.1.0</version>
     </Oneyhosting_Payment>
   </modules>
+
+    <global>
+    <fieldsets>
+      
+    </fieldsets>
+        
+    <helpers>
+      <payment>
+        <class>Oneyhosting_Payment_Helper</class>
+      </payment>
+    </helpers>
+        
+    <blocks>
+      <payment>
+        <class>Oneyhosting_Payment_Block</class>
+      </payment>
+    </blocks>
+        
+     <models>
+      <payment>
+        <class>Oneyhosting_Payment_Model</class>
+      </payment>
+    </models>    
+        
+    <resources>
+      <payment_setup>
+        <setup>
+          <module>Oneyhosting_Payment</module>
+        </setup>
+      </payment_setup>
+    </resources>
+  </global>    
