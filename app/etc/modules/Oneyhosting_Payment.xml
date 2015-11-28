@@ -3,7 +3,11 @@
     <modules>
         <Oneyhosting_Payment>
             <active>true</active>
-            <codePool>community</codePool>
+            <codePool>local</codePool>
+            <depends>
+                </Mage_payment>
+            </depends>
+            <version>0.1.0</version>
         </Oneyhosting_Payment>
 	</modules>
 </config>
