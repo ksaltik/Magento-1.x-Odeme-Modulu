@@ -11,4 +11,6 @@ Desteklenecek Bankalar: Akbank, Anadolubank, Bankasya, Denizbank, Finans Bankas�
   1. Ödeme Kabul Edilen Bankalar Seçimi
   2. Bankalar için ayrı ayrı taksit tanımı, her taksit için ayrı ayrı komisyon oranı tanımı vesaire.
   3. Ürün bazında banka ve taksit tanımı.
-  4. ..................
+  4. Oney Market Alanı ( n11, hepsiburada gibi farklı satıcıların satış yaptığı sistem ) için satıcı bazında banka hesabı      
+     tanımlamaları, yukarıda desteklenen özellikleri içerecek şekilde.
+  5. .........
