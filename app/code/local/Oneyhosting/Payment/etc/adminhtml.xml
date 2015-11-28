@@ -1,0 +1,25 @@
+<config>
+    <menu>
+        <oney_extensions translate="title" module="oneypayment">
+            <title>Oneyhosting</title>
+            <sort_order>100</sort_order>
+            <children>
+                <oneypayment translate="title" module="oneypayment">
+                    <title>Oneyhosting Payment</title>
+                    <children>
+                        <oneypayment translate="title" module="oneypayment">
+                            <title>Oney Sipariş Yönetimi</title>
+                            <action>oneypaymentadmin/adminhtml_oneypayment</action>
+                        </oneypayment>
+                        <settings translate="title">
+			      <title>Ayarlar</title>
+			      <sort_order>2</sort_order>
+			      <action>adminhtml/system_config/edit/section/oneypayment/</action>
+			</settings>
+                    </children>
+                    <sort_order>20</sort_order>
+                </oneypayment>
+                
+            </children>
+        </oney_extensions>
+    </menu>
