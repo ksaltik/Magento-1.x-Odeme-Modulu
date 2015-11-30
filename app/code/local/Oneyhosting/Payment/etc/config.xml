@@ -12,21 +12,21 @@
     </fieldsets>
         
     <helpers>
-      <payment>
+      <oney>
         <class>Oneyhosting_Payment_Helper</class>
-      </payment>
+      </oney>
     </helpers>
         
     <blocks>
-      <payment>
+      <oney>
         <class>Oneyhosting_Payment_Block</class>
       </payment>
     </blocks>
         
      <models>
-      <payment>
+      <oney>
         <class>Oneyhosting_Payment_Model</class>
-      </payment>
+      </oney>
     </models>    
         
     <resources>
