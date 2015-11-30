@@ -1,0 +1,8 @@
+<config>
+    <tabs>
+	<oney_extensions translate="label" module="payment">
+	    <label>Oney Modülleri</label>
+	    <sort_order>100</sort_order>
+	</oney_extensions>
+    </tabs>
+</config>
