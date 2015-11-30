@@ -5,7 +5,7 @@
             <active>true</active>
             <codePool>local</codePool>
             <depends>
-                </Mage_payment>
+                <Mage_Payment>
             </depends>
             <version>0.1.0</version>
         </Oneyhosting_Payment>
