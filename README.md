@@ -14,3 +14,5 @@ Desteklenecek Bankalar: Akbank, Anadolubank, Bankasya, Denizbank, Finans Bankas�
   4. Oney Market Alanı ( n11, hepsiburada gibi farklı satıcıların satış yaptığı sistem ) için satıcı bazında banka hesabı      
      tanımlamaları, yukarıda desteklenen özellikleri içerecek şekilde.
   5. .........
+  
+  Bu projeye katkıda bulunmak isteyen arkadaşlar ksaltik@oneyhosting.com adresinden bana ulaşabilirler.
